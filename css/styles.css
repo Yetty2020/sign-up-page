@@ -1,0 +1,46 @@
+body{
+  background-image: url("../abst.webp");
+
+font-family: 'Josefin Sans', sans-serif;
+}
+img{
+  width: 25%;
+  border-radius: 30%;
+  float: left;
+  margin-right: 10px;
+}
+.part{
+  width: 50%;
+  text-align: left;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-size: 1rem;
+
+}
+h2,h4{
+  color: #F94C66;
+  font-size: 1.4rem;
+}
+.whole{
+  width: 550px;
+  height: 100px;
+}
+.main{
+  background-color: #B7E5DD;
+  padding: 5%;
+  border: solid;
+  border-color: #4CACBC;
+  border-radius: 3%;
+}
+/* .text{
+  text-align: left;
+  float: right;
+} */
+.end{
+  text-align: center;
+}
+.form-floating{
+  border-color: #B3E8E5;
+}
+.text{
+  flex: auto;
+}
