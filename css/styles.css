@@ -23,6 +23,7 @@ h2,h4{
 .whole{
   width: 550px;
   height: 100px;
+  margin: 0 auto;
 }
 .main{
   background-color: #B7E5DD;
